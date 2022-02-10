@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mix_Pestañas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="salir">Salir de la aplicación</string>
+    <string name="temas">Temas</string>
+    <string name="buscar">Buscar</string>
+    <string name="subir">Subir</string>
+    <string name="perfil">Perfil</string>
+</resources>
